@@ -2,7 +2,7 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>Control Escolar</title>
+    <title>Control Escolar 1.0</title>
     <link rel="stylesheet" href="/mvc/public/css/estilos.css">
     <link rel="stylesheet" href="/mvc/public/css/menuh.css">
     <script src="https://code.jquery.com/jquery-3.2.1.min.js" charset="utf-8"></script>

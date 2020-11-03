@@ -15,7 +15,7 @@
       </section>
       <section id="banner">
         <div id="sistema">
-          <span>CONTROL ESCOLAR</span>
+          <span>CONTROL ESCOLAR 1.0</span>
         </div>
       </section>
       <section id="login">
